@@ -13,3 +13,7 @@ Ability to save events at time points throughout the day.
 A "Clear Day" button to clear all data to the application.
 Each event will be color-coded as well depeneding whether or not it is past, present, or future.
 
+
+
+https://user-images.githubusercontent.com/99467003/172745587-ef71fadb-5397-4af4-b0c5-8582837ac70a.mp4
+
